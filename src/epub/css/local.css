@@ -6,7 +6,8 @@ abbr.name{
 }
 
 b{
-	font-variant: all-small-caps;
+	font-weight: normal;
+	font-variant: small-caps;
 }
 
 .signature{
