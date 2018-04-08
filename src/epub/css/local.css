@@ -23,3 +23,8 @@ span[epub|type~="subtitle"]{
 [epub|type~="z3998:recipient"]{
 	font-variant: small-caps;
 }
+
+[epub|type~="z3998:recipient"] p,
+[epub|type~="z3998:recipient"] + p{
+	text-indent: 0;
+}
