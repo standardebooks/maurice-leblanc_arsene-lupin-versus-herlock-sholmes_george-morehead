@@ -45,8 +45,7 @@
 		<meta property="se:subject">Shorts</meta>
 		<meta property="belongs-to-collection" id="collection-1">Arsène Lupin</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
-		<meta property="belongs-to-collection" id="collection-2">Sherlock Holmes</meta>
-		<meta property="collection-type" refines="#collection-2">series</meta>
+		<meta property="group-position" refines="#collection-1">2</meta>
 		<dc:description id="description">The infamous French thief must pit his wits against England’s finest detective in the second Arsène Lupin collection.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/collections/arsene-lupin"&gt;Arsène Lupin&lt;/a&gt; takes on his most fearsome opponent yet in this second collection of his larcenous adventures. More a loving homage than a straight copy, Herlock Sholmes (changed just enough to avoid fallout from a copyright claim by &lt;a href="https://standardebooks.org/ebooks/arthur-conan-doyle"&gt;Conan Doyle&lt;/a&gt;) and his companion Wilson are summoned to France initially to throw light on the case of the Blonde Lady. Having encountered Arsène Lupin before, Sholmes is only too happy to get a chance of revenge.&lt;/p&gt;
