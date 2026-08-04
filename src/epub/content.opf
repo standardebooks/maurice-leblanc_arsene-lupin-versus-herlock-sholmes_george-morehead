@@ -48,7 +48,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Arsène Lupin</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:abstract>The infamous French thief must pit his wits against England’s finest detective in the second Arsène Lupin collection.</dc:abstract>
+		<meta property="schema:abstract">The infamous French thief must pit his wits against England’s finest detective in the second Arsène Lupin collection.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/collections/arsene-lupin"&gt;Arsène Lupin&lt;/a&gt; takes on his most fearsome opponent yet in this second collection of his larcenous adventures. More a loving homage than a straight copy, Herlock Sholmes (changed just enough to avoid fallout from a copyright claim by &lt;a href="https://standardebooks.org/ebooks/arthur-conan-doyle"&gt;Conan Doyle&lt;/a&gt;) and his companion Wilson are summoned to France initially to throw light on the case of the Blonde Lady. Having encountered Arsène Lupin before, Sholmes is only too happy to get a chance of revenge.&lt;/p&gt;
 			&lt;p&gt;This collection of two stories were originally serialised in the magazine &lt;i&gt;Je Sais Tout&lt;/i&gt; from 1906 to 1907, and were translated into English in 1910. After an earlier story with an unauthorised &lt;a href="https://standardebooks.org/collections/sherlock-holmes"&gt;Sherlock Holmes&lt;/a&gt;, &lt;a href="https://standardebooks.org/ebooks/maurice-leblanc"&gt;Maurice Leblanc&lt;/a&gt; was forced to rename his antagonist for these stories.&lt;/p&gt;
